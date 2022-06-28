@@ -1,0 +1,20 @@
+h1{
+    color:red
+}
+label{
+    color:red
+}
+h3{
+    color:pink
+}
+p{
+    color:darkorange
+}
+li{
+    color: darkorange;
+}
+html{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
